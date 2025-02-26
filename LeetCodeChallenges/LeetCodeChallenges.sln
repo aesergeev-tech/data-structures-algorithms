@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array", "Array\Array.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashTable", "HashTable\HashTable.csproj", "{AFD1BD3A-84A2-4195-822F-A5713500BCA8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math", "Math\Math.csproj", "{CAC21401-8FA4-4BB2-8121-FC9FA4F9CF8F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{AFD1BD3A-84A2-4195-822F-A5713500BCA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AFD1BD3A-84A2-4195-822F-A5713500BCA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AFD1BD3A-84A2-4195-822F-A5713500BCA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAC21401-8FA4-4BB2-8121-FC9FA4F9CF8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAC21401-8FA4-4BB2-8121-FC9FA4F9CF8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAC21401-8FA4-4BB2-8121-FC9FA4F9CF8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAC21401-8FA4-4BB2-8121-FC9FA4F9CF8F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
